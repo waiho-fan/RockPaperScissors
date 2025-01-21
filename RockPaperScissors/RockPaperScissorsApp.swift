@@ -13,5 +13,6 @@ struct RockPaperScissorsApp: App {
         WindowGroup {
             ContentView()
         }
+        //
     }
 }
